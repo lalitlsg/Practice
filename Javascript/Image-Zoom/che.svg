@@ -1,0 +1,329 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1102" height="699" viewBox="0 0 1102 699">
+    <defs>
+        <path id="a" d="M0 0v699h345.333V0z"/>
+        <path id="c" d="M1 1v697h343.333V1H1zM0 0h345.333v699H0V0z"/>
+        <rect id="e" width="306" height="74" rx="2"/>
+        <path id="g" d="M304 0a2 2 0 0 1 2 2v70a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v68a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+        <rect id="i" width="306" height="74" rx="2"/>
+        <path id="k" d="M304 0a2 2 0 0 1 2 2v70a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v68a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+        <rect id="m" width="306" height="78" rx="2"/>
+        <path id="o" d="M304 0a2 2 0 0 1 2 2v74a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v72a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+        <path id="q" d="M0 0v699h345.333V0z"/>
+        <path id="s" d="M1 1v697h343.333V1H1zM0 0h345.333v699H0V0z"/>
+        <rect id="u" width="306" height="90" rx="2"/>
+        <path id="w" d="M304 0a2 2 0 0 1 2 2v86a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v84a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+        <rect id="y" width="306" height="106" rx="2"/>
+        <path id="A" d="M304 0a2 2 0 0 1 2 2v102a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v100a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+        <rect id="C" width="306" height="74" rx="2"/>
+        <path id="E" d="M304 0a2 2 0 0 1 2 2v70a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v68a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+        <rect id="G" width="306" height="58" rx="2"/>
+        <path id="I" d="M304 0a2 2 0 0 1 2 2v54a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v52a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+        <path id="K" d="M0 0v699h345.333V0z"/>
+        <path id="M" d="M1 1v697h343.333V1H1zM0 0h345.333v699H0V0z"/>
+        <rect id="O" width="306" height="58" rx="2"/>
+        <path id="Q" d="M304 0a2 2 0 0 1 2 2v54a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v52a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+        <rect id="S" width="306" height="90" rx="2"/>
+        <path id="U" d="M304 0a2 2 0 0 1 2 2v86a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h302zm-1 1H3a2 2 0 0 0-2 2v84a2 2 0 0 0 2 2h300a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <g fill="#F6F8FC" mask="url(#b)">
+                <path d="M0 0h345.333v699H0z"/>
+            </g>
+        </g>
+        <g>
+            <mask id="d" fill="#fff">
+                <use xlink:href="#c"/>
+            </mask>
+            <g mask="url(#d)">
+                <path d="M0 0h345.333v699H0z"/>
+            </g>
+        </g>
+        <g transform="translate(20 70)">
+            <mask id="f" fill="#fff">
+                <use xlink:href="#e"/>
+            </mask>
+            <g fill="#FFF" mask="url(#f)">
+                <path d="M0 0h306v74H0z"/>
+            </g>
+        </g>
+        <g transform="translate(20 70)">
+            <mask id="h" fill="#fff">
+                <use xlink:href="#g"/>
+            </mask>
+            <g fill="#E6EBF3" mask="url(#h)">
+                <path d="M0 0h306v74H0z"/>
+            </g>
+        </g>
+        <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(20 70)">
+            <tspan x="12" y="44">Merchant accesses the JS Checkout section after </tspan> <tspan x="12" y="60">logging to his Paytm dashboard (UMP)</tspan>
+        </text>
+        <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(20 70)">
+            <tspan x="12" y="20">STEP 1</tspan>
+        </text>
+        <g transform="translate(20 232)">
+            <mask id="j" fill="#fff">
+                <use xlink:href="#i"/>
+            </mask>
+            <g fill="#FFF" mask="url(#j)">
+                <path d="M0 0h306v74H0z"/>
+            </g>
+        </g>
+        <g transform="translate(20 232)">
+            <mask id="l" fill="#fff">
+                <use xlink:href="#k"/>
+            </mask>
+            <g fill="#E6EBF3" mask="url(#l)">
+                <path d="M0 0h306v74H0z"/>
+            </g>
+        </g>
+        <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(20 232)">
+            <tspan x="12" y="44">The merchant fills / updates the customisation,</tspan> <tspan x="12" y="60">sets preferences and submits.</tspan>
+        </text>
+        <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(20 232)">
+            <tspan x="12" y="20">STEP 5</tspan>
+        </text>
+        <g transform="translate(22 581)">
+            <mask id="n" fill="#fff">
+                <use xlink:href="#m"/>
+            </mask>
+            <g fill="#FFF" mask="url(#n)">
+                <path d="M0 0h306v78H0z"/>
+            </g>
+        </g>
+        <g transform="translate(22 581)">
+            <mask id="p" fill="#fff">
+                <use xlink:href="#o"/>
+            </mask>
+            <g fill="#E6EBF3" mask="url(#p)">
+                <path d="M0 0h306v78H0z"/>
+            </g>
+        </g>
+        <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(22 581)">
+            <tspan x="10" y="48">Merchant embeds the JS Code Snippet in the </tspan> <tspan x="10" y="64">&lt;body&gt; tag of the HTML page.</tspan>
+        </text>
+        <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(22 581)">
+            <tspan x="10" y="24">STEP 9</tspan>
+        </text>
+        <text fill="#536E92" font-family="NunitoSans-ExtraBold, Nunito Sans" font-size="12" font-weight="600" letter-spacing=".8">
+            <tspan x="135.57" y="42">MERCHANT</tspan>
+        </text>
+        <g>
+            <g transform="translate(378)">
+                <mask id="r" fill="#fff">
+                    <use xlink:href="#q"/>
+                </mask>
+                <g fill="#F6F8FC" mask="url(#r)">
+                    <path d="M0 0h345.333v699H0z"/>
+                </g>
+            </g>
+            <g transform="translate(378)">
+                <mask id="t" fill="#fff">
+                    <use xlink:href="#s"/>
+                </mask>
+                <g mask="url(#t)">
+                    <path d="M0 0h345.333v699H0z"/>
+                </g>
+            </g>
+            <g transform="translate(398 70)">
+                <mask id="v" fill="#fff">
+                    <use xlink:href="#u"/>
+                </mask>
+                <g fill="#FFF" mask="url(#v)">
+                    <path d="M0 0h306v90H0z"/>
+                </g>
+            </g>
+            <g transform="translate(398 70)">
+                <mask id="x" fill="#fff">
+                    <use xlink:href="#w"/>
+                </mask>
+                <g fill="#E6EBF3" mask="url(#x)">
+                    <path d="M0 0h306v90H0z"/>
+                </g>
+            </g>
+            <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(398 70)">
+                <tspan x="12" y="44">Browser makes a request to Paytm for fetching the </tspan> <tspan x="12" y="60">saved thematic configurations and preferences for </tspan> <tspan x="12" y="76">the merchant.</tspan>
+            </text>
+            <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(398 70)">
+                <tspan x="12" y="20">STEP 2</tspan>
+            </text>
+            <g>
+                <g transform="translate(398 232)">
+                    <mask id="z" fill="#fff">
+                        <use xlink:href="#y"/>
+                    </mask>
+                    <g fill="#FFF" mask="url(#z)">
+                        <path d="M0 0h306v106H0z"/>
+                    </g>
+                </g>
+                <g transform="translate(398 232)">
+                    <mask id="B" fill="#fff">
+                        <use xlink:href="#A"/>
+                    </mask>
+                    <g fill="#E6EBF3" mask="url(#B)">
+                        <path d="M0 0h306v106H0z"/>
+                    </g>
+                </g>
+                <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(398 232)">
+                    <tspan x="12" y="44">The preview is rendered on the merchant&apos;s </tspan> <tspan x="12" y="60">dashboard (UMP). If no stored preference is returned </tspan> <tspan x="12" y="76">from the previous step, Paytm&apos;s default </tspan> <tspan x="12" y="92">configurations are loaded.</tspan>
+                </text>
+                <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(398 232)">
+                    <tspan x="12" y="20">STEP 4</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(398 400)">
+                    <mask id="D" fill="#fff">
+                        <use xlink:href="#C"/>
+                    </mask>
+                    <g fill="#FFF" mask="url(#D)">
+                        <path d="M0 0h306v74H0z"/>
+                    </g>
+                </g>
+                <g transform="translate(398 400)">
+                    <mask id="F" fill="#fff">
+                        <use xlink:href="#E"/>
+                    </mask>
+                    <g fill="#E6EBF3" mask="url(#F)">
+                        <path d="M0 0h306v74H0z"/>
+                    </g>
+                </g>
+                <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(398 400)">
+                    <tspan x="12" y="44">Updated settings and preferences are sent to </tspan> <tspan x="12" y="60">Paytm server.</tspan>
+                </text>
+                <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(398 400)">
+                    <tspan x="12" y="20">STEP 6</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(398 585)">
+                    <mask id="H" fill="#fff">
+                        <use xlink:href="#G"/>
+                    </mask>
+                    <g fill="#FFF" mask="url(#H)">
+                        <path d="M0 0h306v58H0z"/>
+                    </g>
+                </g>
+                <g transform="translate(398 585)">
+                    <mask id="J" fill="#fff">
+                        <use xlink:href="#I"/>
+                    </mask>
+                    <g fill="#E6EBF3" mask="url(#J)">
+                        <path d="M0 0h306v58H0z"/>
+                    </g>
+                </g>
+                <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(398 585)">
+                    <tspan x="12" y="44">The JS Code is displayed on the merchant dashboard.</tspan>
+                </text>
+                <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(398 585)">
+                    <tspan x="12" y="20">STEP 8</tspan>
+                </text>
+            </g>
+            <text fill="#536E92" font-family="NunitoSans-ExtraBold, Nunito Sans" font-size="12" font-weight="600" letter-spacing=".8" transform="translate(378)">
+                <tspan x="68.426" y="42">MERCHANT DASHBOARD (UMP)</tspan>
+            </text>
+        </g>
+        <g>
+            <g transform="translate(756)">
+                <mask id="L" fill="#fff">
+                    <use xlink:href="#K"/>
+                </mask>
+                <g fill="#F6F8FC" mask="url(#L)">
+                    <path d="M0 0h345.333v699H0z"/>
+                </g>
+            </g>
+            <g transform="translate(756)">
+                <mask id="N" fill="#fff">
+                    <use xlink:href="#M"/>
+                </mask>
+                <g mask="url(#N)">
+                    <path d="M0 0h345.333v699H0z"/>
+                </g>
+            </g>
+            <g transform="translate(776 70)">
+                <mask id="P" fill="#fff">
+                    <use xlink:href="#O"/>
+                </mask>
+                <g fill="#FFF" mask="url(#P)">
+                    <path d="M0 0h306v58H0z"/>
+                </g>
+            </g>
+            <g transform="translate(776 70)">
+                <mask id="R" fill="#fff">
+                    <use xlink:href="#Q"/>
+                </mask>
+                <g fill="#E6EBF3" mask="url(#R)">
+                    <path d="M0 0h306v58H0z"/>
+                </g>
+            </g>
+            <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(776 70)">
+                <tspan x="12" y="44">Paytm returns the saved configurations.</tspan>
+            </text>
+            <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(776 70)">
+                <tspan x="12" y="20">STEP 3</tspan>
+            </text>
+            <g>
+                <g transform="translate(776 400)">
+                    <mask id="T" fill="#fff">
+                        <use xlink:href="#S"/>
+                    </mask>
+                    <g fill="#FFF" mask="url(#T)">
+                        <path d="M0 0h306v90H0z"/>
+                    </g>
+                </g>
+                <g transform="translate(776 400)">
+                    <mask id="V" fill="#fff">
+                        <use xlink:href="#U"/>
+                    </mask>
+                    <g fill="#E6EBF3" mask="url(#V)">
+                        <path d="M0 0h306v90H0z"/>
+                    </g>
+                </g>
+                <text fill="#536E92" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" transform="translate(776 400)">
+                    <tspan x="12" y="44">The updated configurations are stored</tspan> <tspan x="12" y="60">against the merchant. Paytm generates a JS snippet </tspan> <tspan x="12" y="76">and shares it with the merchant to integrate.</tspan>
+                </text>
+                <text fill="#182233" font-family="NunitoSans-Bold, Nunito Sans" font-size="10" font-weight="bold" transform="translate(776 400)">
+                    <tspan x="12" y="20">STEP 7</tspan>
+                </text>
+            </g>
+            <text fill="#536E92" font-family="NunitoSans-ExtraBold, Nunito Sans" font-size="12" font-weight="600" letter-spacing=".8" transform="translate(756)">
+                <tspan x="122.51" y="42">PAYTM SERVER</tspan>
+            </text>
+        </g>
+        <g>
+            <path stroke="#86A0C2" stroke-width="2" d="M328 100h67"/>
+            <path fill="#86A0C2" d="M387 108V92l10 8z"/>
+        </g>
+        <g>
+            <path stroke="#86A0C2" stroke-width="2" d="M397 264h-67"/>
+            <path fill="#86A0C2" d="M338 272v-16l-10 8z"/>
+        </g>
+        <g>
+            <path stroke="#86A0C2" stroke-width="2" d="M397 611h-67"/>
+            <path fill="#86A0C2" d="M338 619v-16l-10 8z"/>
+        </g>
+        <g>
+            <path stroke="#86A0C2" stroke-width="2" d="M706 100h67"/>
+            <path fill="#86A0C2" d="M765 108V92l10 8z"/>
+        </g>
+        <g>
+            <path stroke="#86A0C2" stroke-width="2" d="M706 427h67"/>
+            <path fill="#86A0C2" d="M765 435v-16l10 8z"/>
+        </g>
+        <g>
+            <path stroke="#86A0C2" stroke-width="2" d="M929 129v116.006c0 11.042-8.949 19.994-19.998 19.994H706"/>
+            <path fill="#86A0C2" d="M714 257v16l-10-8z"/>
+        </g>
+        <g>
+            <path stroke="#86A0C2" stroke-width="2" d="M929 491V589.998c0 11.047-8.949 20.002-19.998 20.002H706"/>
+            <path fill="#86A0C2" d="M714 602v16l-10-8z"/>
+        </g>
+        <g>
+            <path stroke="#86A0C2" stroke-width="2" d="M173 307V405.998c0 11.047 8.949 20.002 19.998 20.002H396"/>
+            <path fill="#86A0C2" d="M388 418v16l10-8z"/>
+        </g>
+    </g>
+</svg>

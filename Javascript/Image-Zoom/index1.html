@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .image-wrap {
+            max-width: 640px;
+            margin: 50px auto;
+        }
+
+        .image {
+            width: 100%;
+            padding-top: calc(100% / (16/9) + 30px);
+            background-size: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        .image:hover {
+            background-size: 200%;
+            cursor: zoom-in;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-wrap">
+        <div class="image" style="background-image: url(./che.svg);"></div>
+    </div>
+    <script>
+        const image = document.querySelector('.image');
+        image.addEventListener('mousemove', (e) => {
+            let width = image.offsetWidth;
+            let height = image.offsetHeight;
+            let mouseX = e.offsetX;
+            let mouseY = e.offsetY;
+
+            let bgPosX = (mouseX / width * 100);
+            let bgPosY = (mouseY / height * 100);
+
+            image.style.backgroundPosition = `${bgPosX}% ${bgPosY}%`;
+        });
+
+        image.addEventListener('mouseleave', () => {
+            image.style.backgroundPosition = 'center';
+        });
+    </script>
+</body>
+</html>

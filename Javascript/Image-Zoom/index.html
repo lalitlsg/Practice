@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF8">
+    <title>Title</title>
+    <script src="https://unpkg.com/js-image-zoom@0.4.1/js-image-zoom.js" type="application/javascript"></script>
+</head>
+<style>
+  .container{
+      width: 600px;
+      height: 600px;
+      overflow: auto;
+      border: 1px solid gray;
+  }
+</style>
+<body>
+    <button id='plus'>+</button>
+    <button id="minus">-</button>
+    <div class="container">
+        <img class="image" src="./che.svg" width="500" height="500">
+    <div>
+<script>
+// var options = {
+//     width: 500,
+//     zoomWidth: 500,
+//     offset: {vertical: 0, horizontal: 10},
+//     scale: 1
+// };
+// new ImageZoom(document.getElementById("img-container"), options);
+
+const plus = document.querySelector('#plus');
+const minus = document.querySelector('#minus');
+
+plus.addEventListener('click', ()=>{
+    const img = document.querySelector('img');
+    img.width += 100;
+    img.height += 100;
+});
+
+minus.addEventListener('click', ()=>{
+    const img = document.querySelector('img');
+    img.width -= 100;
+    img.height -= 100;
+})
+ 
+</script>
+</body>
+</html>

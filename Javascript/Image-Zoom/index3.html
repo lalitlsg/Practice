@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>1</div>
+        <ul>
+            <li>A</li>
+            <li>B</li>
+            <li>C</li>
+        </ul>
+    <div>
+        <p>lalit</p>
+        <p>vishal</p>
+    </div>
+    <script>
+        // console.log(document.body.children);
+        // for(let node in document) {
+        
+        // }
+        const traverse = (root) => {
+            if(root === undefined) return;
+            if(root.nodeType === 1 && root.nodeName !== 'SCRIPT') console.log(root.textContent);
+            for(let node of root.children) {
+                traverse(node);    
+            }
+        };
+
+        traverse(document.body);
+
+
+    </script>
+</body>
+</html>
